@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.f9dd2b7e.css",
+    "main.js": "/robofriends/static/js/main.b59fbd26.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/RobotInvaders-d9VmR.ttf": "/robofriends/static/media/RobotInvaders-d9VmR.c6203c640dca39e33caa.ttf",
+    "index.html": "/robofriends/index.html",
+    "main.f9dd2b7e.css.map": "/robofriends/static/css/main.f9dd2b7e.css.map",
+    "main.b59fbd26.js.map": "/robofriends/static/js/main.b59fbd26.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9dd2b7e.css",
+    "static/js/main.b59fbd26.js"
+  ]
+}
