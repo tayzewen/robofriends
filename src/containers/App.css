@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'RoboInvader';
+    src: url(RobotInvaders-d9VmR.ttf);
+}
+
+h1 {
+    font-family: 'RoboInvader';
+    font-weight: 200;
+    color: #474e4e;
+}
